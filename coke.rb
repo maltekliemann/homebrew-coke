@@ -1,8 +1,8 @@
 class Coke < Formula
   desc "Disable sleep on macOS"
   homepage "https://github.com/maltekliemann/coke"
-  url "https://github.com/maltekliemann/coke/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2eb117ce5738ade29518b45b23601af8b41d6fe26aa731759606335d948984cc"
+  url "https://github.com/maltekliemann/coke/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "11ee6c1cb924a395c9317933b843783cf3cfc5209ef5703472862d928be12d49"
   license "MIT"
 
   depends_on :macos
